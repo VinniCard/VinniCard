@@ -1,3 +1,5 @@
+![banner 3](https://user-images.githubusercontent.com/119970371/206029451-11022032-272d-4b70-acb7-08f1d2b827c8.gif)
+
 
 <h1 align="center">Hello, i'm Vinicius </h1> 
 
@@ -19,7 +21,3 @@
  
   </div> 
  
- <div>
- ![Snake animation](https://github.com/VinniCard/VinniCard/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
