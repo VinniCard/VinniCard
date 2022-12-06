@@ -10,7 +10,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniCard&layout=compact&langs_count=7&theme=highcontrast"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VinniCard&&theme=highcontrast" alt="VinniCard" /></p>
  </div>
- 
+  
+  ##
+  
  <div> 
  <a href = "mailto:viniciuscardjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/vnnicard/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
