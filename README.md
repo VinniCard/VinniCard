@@ -8,9 +8,9 @@
 
   <div align="center">
 <a href="https://github.com/VinniCard">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VinniCard&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniCard&layout=compact&langs_count=7&theme=highcontrast"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VinniCard&&theme=highcontrast" alt="VinniCard" /></p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VinniCard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniCard&layout=compact&langs_count=7&theme=dark"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VinniCard&&theme=dark" alt="VinniCard" /></p>
  </div>
   
   ##
