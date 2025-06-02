@@ -1,4 +1,4 @@
-![banner 3](https://s2.ezgif.com/tmp/ezgif-20cd7911ec06eb.gif)
+![banner 3](https://s2.ezgif.com/tmp/ezgif-28d50564815ab5.gif)
 
 
 <h1 align="center">Hello, i'm Vinicius </h1> 
