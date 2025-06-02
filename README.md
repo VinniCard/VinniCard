@@ -1,4 +1,4 @@
-![banner 3](https://user-images.githubusercontent.com/119970371/206029451-11022032-272d-4b70-acb7-08f1d2b827c8.gif)
+![banner 3](https://s2.ezgif.com/tmp/ezgif-20cd7911ec06eb.gif)
 
 
 <h1 align="center">Hello, i'm Vinicius </h1> 
