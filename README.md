@@ -1,4 +1,4 @@
-![banner 3](https://s2.ezgif.com/tmp/ezgif-28d50564815ab5.gif)
+![banner 3](https://sebastiennejewelry.com/cdn/shop/files/banner-pc.jpg?v=1729878687&width=2000)
 
 
 <h1 align="center">Hello, i'm Vinicius </h1> 
