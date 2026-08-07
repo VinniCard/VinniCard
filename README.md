@@ -27,8 +27,6 @@ Estudante de Economia com foco em Data Science. Gosto de trabalhar com Python, S
 ### 📊 Estatísticas
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VinniCard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniCard&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <p align="center">
